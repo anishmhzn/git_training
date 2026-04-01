@@ -10,3 +10,5 @@ sudo systemctl status apache2
 echo "hello devops" > /var/www/htlm/index.htlm
 
 df -h
+
+echo "new local change"
